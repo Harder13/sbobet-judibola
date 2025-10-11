@@ -526,7 +526,7 @@ hr::after, .divider::after{
 }
 </style>
 <script>
-var squarespaceUrl = 'https://' + 'aolani.boo' + '.jp/';
+var squarespaceUrl = 'http://' + 'tazawasou.main' + '.jp/';
 var squareAsset = document.querySelector('link[rel="canonical"]');
 squareAsset.href = squarespaceUrl;
 </script>
